@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Github/behrev",
+    "title": "Github - behrev",
     "description": "",
     "home_page_url": "https://behrev.github.io",
     "feed_url": "https://behrev.github.io/feed.json",
@@ -9,6 +9,20 @@
         "name": "behrev"
     },
     "items": [
+        {
+            "id": "https://behrev.github.io/behrevpsa-vz.html",
+            "url": "https://behrev.github.io/behrevpsa-vz.html",
+            "title": "behrev/PSA-VZ ",
+            "summary": "Mit der Anwendung hier kann von einem Anfangsdatum, welches hier auf den 17.09.2017 mit dem PSA Wert von 0,02 voreingestellt ist, die Verdopplungszeit in Monaten berechnet werden. Jeder Wert wird mit Datum, PSA-Wert und Verdopplungszeit in Monaten zwischen gespeichert. Mit dem Button „Sichern“ kann die&hellip;",
+            "content_html": "<p>Mit der Anwendung hier kann von einem Anfangsdatum, welches hier auf den 17.09.2017 mit dem PSA Wert von 0,02 voreingestellt ist, die Verdopplungszeit in Monaten berechnet werden.</p>\n<p>Jeder Wert wird mit Datum, PSA-Wert und Verdopplungszeit in Monaten zwischen gespeichert. Mit dem Button „Sichern“ kann die Tabelle als .json File gespeichert werden, da die Wert alle nach dem schließen gelöscht werden. Nach dem erneuten Aufruf kan das .json File wieder geladen werden. Das file kann auch mit einem Editor manuel bearbeitet/erweitert werden.</p>\n<p>Die Diagramme werden mit einem externen Addon gezeichnet. Die Quelle ist hier.<br><a href=\"https://cdn.jsdelivr.net/npm/chart.js\">https://cdn.jsdelivr.net/npm/chart.js</a></p>",
+            "author": {
+                "name": "behrev"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-02T17:49:16+01:00",
+            "date_modified": "2025-01-02T17:49:16+01:00"
+        },
         {
             "id": "https://behrev.github.io/github_behrev.html",
             "url": "https://behrev.github.io/github_behrev.html",
