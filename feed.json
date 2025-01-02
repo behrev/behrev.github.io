@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Github/behrev",
+    "description": "",
+    "home_page_url": "https://behrev.github.io",
+    "feed_url": "https://behrev.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "behrev"
+    },
+    "items": [
+        {
+            "id": "https://behrev.github.io/github_behrev.html",
+            "url": "https://behrev.github.io/github_behrev.html",
+            "title": "behrev/tiefenschaerfe ",
+            "summary": "Bei diesem Projekt handest es sich um eine HTML-Seite mit festem Format, bei dem man die Schärfentiefe berechen kann. Hier gehts zum Repo.",
+            "content_html": "<p>Bei diesem Projekt handest es sich um eine HTML-Seite mit festem Format, bei dem man die Schärfentiefe berechen kann.</p>\n<p><a href=\"https://github.com/behrev/tiefenschaerfe\" target=\"_blank\" rel=\"noopener noreferrer\">Hier gehts zum Repo.</a></p>",
+            "author": {
+                "name": "behrev"
+            },
+            "tags": [
+                   "java",
+                   "html"
+            ],
+            "date_published": "2025-01-02T10:10:07+01:00",
+            "date_modified": "2025-01-02T17:29:44+01:00"
+        }
+    ]
+}
