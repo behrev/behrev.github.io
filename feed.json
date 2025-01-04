@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://behrev.github.io/mathematikscripte.html",
+            "url": "https://behrev.github.io/mathematikscripte.html",
+            "title": "Mathematikscripte",
+            "summary": "Mit der Datei index.html können mehrere kleine scripte aufgerufen werden. hier gehts zum Repo",
+            "content_html": "<p>Mit der Datei index.html können mehrere kleine scripte aufgerufen werden.</p>\n<p> </p>\n<p><a href=\"https://github.com/behrev/mathematikscripte\" target=\"_blank\" rel=\"noopener noreferrer\">hier gehts zum Repo</a></p>",
+            "image": "https://behrev.github.io/media/posts/3/qg.PNG",
+            "author": {
+                "name": "behrev"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-04T12:12:59+01:00",
+            "date_modified": "2025-01-04T12:12:59+01:00"
+        },
+        {
             "id": "https://behrev.github.io/behrevpsa-vz.html",
             "url": "https://behrev.github.io/behrevpsa-vz.html",
             "title": "behrev/PSA-VZ ",

@@ -3,12 +3,37 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2025-01-04T11:22:29+01:00</updated>
+    <updated>2025-01-04T12:12:59+01:00</updated>
     <author>
         <name>behrev</name>
     </author>
     <id>https://behrev.github.io</id>
 
+    <entry>
+        <title>Mathematikscripte</title>
+        <author>
+            <name>behrev</name>
+        </author>
+        <link href="https://behrev.github.io/mathematikscripte.html"/>
+        <id>https://behrev.github.io/mathematikscripte.html</id>
+        <media:content url="https://behrev.github.io/media/posts/3/qg.PNG" medium="image" />
+
+        <updated>2025-01-04T12:12:59+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://behrev.github.io/media/posts/3/qg.PNG" alt="" />
+                    Mit der Datei index.html können mehrere kleine scripte aufgerufen werden. hier gehts zum Repo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://behrev.github.io/media/posts/3/qg.PNG" class="type:primaryImage" alt="" /></p>
+                <p>Mit der Datei index.html können mehrere kleine scripte aufgerufen werden.</p>
+<p> </p>
+<p><a href="https://github.com/behrev/mathematikscripte" target="_blank" rel="noopener noreferrer">hier gehts zum Repo</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>behrev/PSA-VZ </title>
         <author>
