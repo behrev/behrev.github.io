@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2025-01-04T12:12:59+01:00</updated>
+    <updated>2025-01-04T12:14:32+01:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -17,8 +17,10 @@
         <link href="https://behrev.github.io/mathematikscripte.html"/>
         <id>https://behrev.github.io/mathematikscripte.html</id>
         <media:content url="https://behrev.github.io/media/posts/3/qg.PNG" medium="image" />
+            <category term="java"/>
+            <category term="html"/>
 
-        <updated>2025-01-04T12:12:59+01:00</updated>
+        <updated>2025-01-04T12:14:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://behrev.github.io/media/posts/3/qg.PNG" alt="" />
@@ -42,8 +44,10 @@
         <link href="https://behrev.github.io/behrevpsa-vz.html"/>
         <id>https://behrev.github.io/behrevpsa-vz.html</id>
         <media:content url="https://behrev.github.io/media/posts/2/psavz5.PNG" medium="image" />
+            <category term="java"/>
+            <category term="html"/>
 
-        <updated>2025-01-04T11:22:29+01:00</updated>
+        <updated>2025-01-04T12:14:32+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://behrev.github.io/media/posts/2/psavz5.PNG" alt="" />
@@ -71,7 +75,7 @@
             <category term="java"/>
             <category term="html"/>
 
-        <updated>2025-01-04T11:22:22+01:00</updated>
+        <updated>2025-01-04T12:14:12+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://behrev.github.io/media/posts/1/st-2.PNG" alt="" />

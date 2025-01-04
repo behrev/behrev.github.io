@@ -20,9 +20,11 @@
                 "name": "behrev"
             },
             "tags": [
+                   "java",
+                   "html"
             ],
             "date_published": "2025-01-04T12:12:59+01:00",
-            "date_modified": "2025-01-04T12:12:59+01:00"
+            "date_modified": "2025-01-04T12:14:22+01:00"
         },
         {
             "id": "https://behrev.github.io/behrevpsa-vz.html",
@@ -35,9 +37,11 @@
                 "name": "behrev"
             },
             "tags": [
+                   "java",
+                   "html"
             ],
             "date_published": "2025-01-02T17:49:16+01:00",
-            "date_modified": "2025-01-04T11:22:29+01:00"
+            "date_modified": "2025-01-04T12:14:32+01:00"
         },
         {
             "id": "https://behrev.github.io/github_behrev.html",
@@ -54,7 +58,7 @@
                    "html"
             ],
             "date_published": "2025-01-02T10:10:07+01:00",
-            "date_modified": "2025-01-04T11:22:22+01:00"
+            "date_modified": "2025-01-04T12:14:12+01:00"
         }
     ]
 }
