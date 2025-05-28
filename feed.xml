@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2025-03-05T21:19:38+01:00</updated>
+    <updated>2025-05-28T11:23:55+02:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -70,7 +70,7 @@
 </ul>
 </div>
 <div class="section">
-<h2>Bedienung</h2>
+<h2>Bedienung:</h2>
 <h3>1. Neue Messung hinzufügen:</h3>
 <ul>
 <li>Patientendaten eingeben (optional)</li>
@@ -156,16 +156,100 @@
             <summary>
                 <![CDATA[
                         <img src="https://behrev.github.io/media/posts/2/psavz5.PNG" alt="" />
-                    Mit der Anwendung hier kann von einem Anfangsdatum, welches hier auf den 17.09.2017 mit dem PSA Wert von 0,02 voreingestellt&hellip;
+                    Hier gehts zum Repo Der PSA Verdopplungszeitrechner ist ein Tool zur Berechnung und Visualisierung von PSA-Werten und deren Verdopplungszeiten. Die&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://behrev.github.io/media/posts/2/psavz5.PNG" class="type:primaryImage" alt="" /></p>
-                <p>Mit der Anwendung hier kann von einem Anfangsdatum, welches hier auf den 17.09.2017 mit dem PSA Wert von 0,02 voreingestellt ist, die Verdopplungszeit in Monaten berechnet werden.</p>
-<p>Jeder Wert wird mit Datum, PSA-Wert und Verdopplungszeit in Monaten zwischen gespeichert. Mit dem Button „Sichern“ kann die Tabelle als .json File gespeichert werden, da die Wert alle nach dem schließen gelöscht werden. Nach dem erneuten Aufruf kan das .json File wieder geladen werden. Das file kann auch mit einem Editor manuel bearbeitet/erweitert werden.</p>
-<p>Die Diagramme werden mit einem externen Addon gezeichnet. Die Quelle ist hier.<br><a href="https://cdn.jsdelivr.net/npm/chart.js">https://cdn.jsdelivr.net/npm/chart.js</a></p>
-<p><a href="https://github.com/behrev/PSA-VZ" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo</a></p>
+                <p><a href="https://github.com/behrev/PSA-VZ" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo</a></p>
+<p> </p>
+<h1>Dokumentation</h1>
+<div class="section">
+<h2>Überblick</h2>
+<p>Der PSA Verdopplungszeitrechner ist ein Tool zur Berechnung und Visualisierung von PSA-Werten und deren Verdopplungszeiten.</p>
+</div>
+<div class="section">
+<h2>Funktionen</h2>
+<h3>1. Patientendaten</h3>
+<ul>
+<li>Eingabe von Vor- und Nachname</li>
+<li>Erfassung von Geburtsdatum</li>
+<li>Dokumentation des OP-Datums</li>
+<li>Daten erscheinen als Überschrift im Diagramm</li>
+</ul>
+<h3>2. PSA-Messungen</h3>
+<ul>
+<li>Eingabe von zwei PSA-Messungen mit Datum</li>
+<li>Möglichkeit für Notizen zu jeder Messung</li>
+<li>Automatische Berechnung der Verdopplungszeit</li>
+<li>Werte werden in der Tabelle gespeichert</li>
+</ul>
+<h3>3. Visualisierung</h3>
+<ul>
+<li>Grafische Darstellung der PSA-Werte</li>
+<li>Anzeige der Verdopplungszeiten</li>
+<li>Interaktive Tooltips mit allen Informationen</li>
+<li>Übersichtliche Darstellung des Verlaufs</li>
+<li>Die Diagramme werden mit einem externen Addon gezeichnet. Die Quelle ist hier.<br><a href="https://cdn.jsdelivr.net/npm/chart.js">https://cdn.jsdelivr.net/npm/chart.js</a></li>
+</ul>
+<h3>4. Datenverwaltung</h3>
+<ul>
+<li>Speichern der Daten als JSON-Datei</li>
+<li>Laden gespeicherter Daten</li>
+<li>Bearbeitung der Werte in der Tabelle</li>
+<li>Löschen einzelner Messungen</li>
+</ul>
+<h3>5. Benutzeroberfläche</h3>
+<ul>
+<li>Dark Mode für bessere Lesbarkeit</li>
+<li>Übersichtliche Gruppierung der Eingabefelder</li>
+<li>Responsive Design</li>
+<li>Klare Farbkodierung</li>
+</ul>
+</div>
+<div class="section">
+<h2>Bedienung</h2>
+<h3>1. Neue Messung hinzufügen:</h3>
+<ul>
+<li>Patientendaten eingeben (optional)</li>
+<li>Datum und PSA-Wert der ersten Messung eingeben</li>
+<li>Datum und PSA-Wert der zweiten Messung eingeben</li>
+<li>Optional Notizen zu den Messungen hinzufügen</li>
+<li>"Berechnen" klicken</li>
+</ul>
+<h3>2. Daten verwalten:</h3>
+<ul>
+<li>"Speichern" zum Exportieren der Daten</li>
+<li>"Laden" zum Importieren gespeicherter Daten</li>
+<li>Werte in der Tabelle können direkt bearbeitet werden</li>
+<li>Messungen können über das X-Symbol gelöscht werden</li>
+</ul>
+<h3>3. Visualisierung:</h3>
+<ul>
+<li>Graph zeigt PSA-Verlauf und Verdopplungszeiten</li>
+<li>Mit der Maus über Datenpunkte fahren für Details</li>
+<li>Dark Mode über den Schalter rechts oben umschaltbar</li>
+</ul>
+</div>
+<div class="section">
+<h2>Berechnungsmethode</h2>
+<p>Die Verdopplungszeit wird nach folgender Formel berechnet:</p>
+<ol>
+<li>Zeitdifferenz in Monaten zwischen den Messungen</li>
+<li>Wachstumsrate = ln(PSA2/PSA1) / Zeitdifferenz</li>
+<li>Verdopplungszeit = ln(2) / Wachstumsrate</li>
+</ol>
+</div>
+<div class="section">
+<h2>Technische Hinweise</h2>
+<ul>
+<li>Die Daten werden im JSON-Format gespeichert</li>
+<li>Die JSON-Datei kann auch extern bearbeitet werden</li>
+<li>Alle Berechnungen erfolgen clientseitig</li>
+<li>Keine Daten werden an Server übermittelt</li>
+</ul>
+</div>
             ]]>
         </content>
     </entry>
