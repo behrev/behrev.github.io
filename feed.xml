@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2025-05-28T11:23:55+02:00</updated>
+    <updated>2025-07-21T15:37:17+02:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -28,11 +28,11 @@
             <![CDATA[
                 <h1>PSA Verdopplungszeitrechner - Dokumentation</h1>
 <div class="section">
-<h2>Überblick</h2>
+<h2><span style="text-decoration: underline;">Überblick</span></h2>
 <p>Der PSA Verdopplungszeitrechner ist ein Tool zur Berechnung und Visualisierung von PSA-Werten und deren Verdopplungszeiten.</p>
 </div>
 <div class="section">
-<h2>Funktionen</h2>
+<h2><span style="text-decoration: underline;">Funktionen</span></h2>
 <h3>1. Patientendaten</h3>
 <ul>
 <li>Eingabe von Vor- und Nachname</li>
@@ -70,7 +70,7 @@
 </ul>
 </div>
 <div class="section">
-<h2>Bedienung:</h2>
+<h2><span style="text-decoration: underline;">Bedienung</span></h2>
 <h3>1. Neue Messung hinzufügen:</h3>
 <ul>
 <li>Patientendaten eingeben (optional)</li>
