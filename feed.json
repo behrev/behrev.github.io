@@ -44,7 +44,7 @@
         {
             "id": "https://behrev.github.io/behrevpsa-vz.html",
             "url": "https://behrev.github.io/behrevpsa-vz.html",
-            "title": "behrev/PSA-VZ ",
+            "title": "PSA-VZ ",
             "summary": "Hier gehts zum Repo Hier sind mehrere Versionen zur Berechnung und Visualisierung von PSA-Werten und deren Verdopplungszeiten hinterlegt. Die Versionen&hellip;",
             "content_html": "<p><a href=\"https://github.com/behrev/PSA-VZ\" target=\"_blank\" rel=\"noopener noreferrer\">Hier gehts zum Repo</a></p>\n<h1>Dokumentation</h1>\n<div class=\"section\">\n<h2>Überblick</h2>\n<p>Hier sind mehrere Versionen zur Berechnung und Visualisierung von PSA-Werten und deren Verdopplungszeiten hinterlegt.</p>\n<p>Die Versionen sind aufsteigend als<br><br>index.html</p>\n</div>\n<div class=\"section\">index2.html</div>\n<div>index3.html<br>index4.html</div>\n<div>index5.html<br><br></div>\n<div>benannt.</div>\n<div> </div>\n<div>Die erste Version ist ein sehr einfacher Rechner, die letzte ist ein rechner mit visualisierung und der Möglichkeit, die Daten zu speichern und wieder zu Laden.</div>\n<div> </div>\n<p> </p>",
             "image": "https://behrev.github.io/media/posts/2/psavz5.PNG",
@@ -56,7 +56,7 @@
                    "html"
             ],
             "date_published": "2025-01-02T17:49:16+01:00",
-            "date_modified": "2025-07-21T22:51:13+02:00"
+            "date_modified": "2025-07-21T22:55:31+02:00"
         },
         {
             "id": "https://behrev.github.io/github_behrev.html",
