@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2025-07-21T22:36:59+02:00</updated>
+    <updated>2025-07-21T22:51:13+02:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -156,100 +156,27 @@
             <summary>
                 <![CDATA[
                         <img src="https://behrev.github.io/media/posts/2/psavz5.PNG" alt="" />
-                    Hier gehts zum Repo Der PSA Verdopplungszeitrechner ist ein Tool zur Berechnung und Visualisierung von PSA-Werten und deren Verdopplungszeiten. Die&hellip;
+                    Hier gehts zum Repo Hier sind mehrere Versionen zur Berechnung und Visualisierung von PSA-Werten und deren Verdopplungszeiten hinterlegt. Die Versionen&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://behrev.github.io/media/posts/2/psavz5.PNG" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://github.com/behrev/PSA-VZ" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo</a></p>
-<p> </p>
 <h1>Dokumentation</h1>
 <div class="section">
 <h2>Überblick</h2>
-<p>Der PSA Verdopplungszeitrechner ist ein Tool zur Berechnung und Visualisierung von PSA-Werten und deren Verdopplungszeiten.</p>
+<p>Hier sind mehrere Versionen zur Berechnung und Visualisierung von PSA-Werten und deren Verdopplungszeiten hinterlegt.</p>
+<p>Die Versionen sind aufsteigend als<br><br>index.html</p>
 </div>
-<div class="section">
-<h2>Funktionen</h2>
-<h3>1. Patientendaten</h3>
-<ul>
-<li>Eingabe von Vor- und Nachname</li>
-<li>Erfassung von Geburtsdatum</li>
-<li>Dokumentation des OP-Datums</li>
-<li>Daten erscheinen als Überschrift im Diagramm</li>
-</ul>
-<h3>2. PSA-Messungen</h3>
-<ul>
-<li>Eingabe von zwei PSA-Messungen mit Datum</li>
-<li>Möglichkeit für Notizen zu jeder Messung</li>
-<li>Automatische Berechnung der Verdopplungszeit</li>
-<li>Werte werden in der Tabelle gespeichert</li>
-</ul>
-<h3>3. Visualisierung</h3>
-<ul>
-<li>Grafische Darstellung der PSA-Werte</li>
-<li>Anzeige der Verdopplungszeiten</li>
-<li>Interaktive Tooltips mit allen Informationen</li>
-<li>Übersichtliche Darstellung des Verlaufs</li>
-<li>Die Diagramme werden mit einem externen Addon gezeichnet. Die Quelle ist hier.<br><a href="https://cdn.jsdelivr.net/npm/chart.js">https://cdn.jsdelivr.net/npm/chart.js</a></li>
-</ul>
-<h3>4. Datenverwaltung</h3>
-<ul>
-<li>Speichern der Daten als JSON-Datei</li>
-<li>Laden gespeicherter Daten</li>
-<li>Bearbeitung der Werte in der Tabelle</li>
-<li>Löschen einzelner Messungen</li>
-</ul>
-<h3>5. Benutzeroberfläche</h3>
-<ul>
-<li>Dark Mode für bessere Lesbarkeit</li>
-<li>Übersichtliche Gruppierung der Eingabefelder</li>
-<li>Responsive Design</li>
-<li>Klare Farbkodierung</li>
-</ul>
-</div>
-<div class="section">
-<h2>Bedienung</h2>
-<h3>1. Neue Messung hinzufügen:</h3>
-<ul>
-<li>Patientendaten eingeben (optional)</li>
-<li>Datum und PSA-Wert der ersten Messung eingeben</li>
-<li>Datum und PSA-Wert der zweiten Messung eingeben</li>
-<li>Optional Notizen zu den Messungen hinzufügen</li>
-<li>"Berechnen" klicken</li>
-</ul>
-<h3>2. Daten verwalten:</h3>
-<ul>
-<li>"Speichern" zum Exportieren der Daten</li>
-<li>"Laden" zum Importieren gespeicherter Daten</li>
-<li>Werte in der Tabelle können direkt bearbeitet werden</li>
-<li>Messungen können über das X-Symbol gelöscht werden</li>
-</ul>
-<h3>3. Visualisierung:</h3>
-<ul>
-<li>Graph zeigt PSA-Verlauf und Verdopplungszeiten</li>
-<li>Mit der Maus über Datenpunkte fahren für Details</li>
-<li>Dark Mode über den Schalter rechts oben umschaltbar</li>
-</ul>
-</div>
-<div class="section">
-<h2>Berechnungsmethode</h2>
-<p>Die Verdopplungszeit wird nach folgender Formel berechnet:</p>
-<ol>
-<li>Zeitdifferenz in Monaten zwischen den Messungen</li>
-<li>Wachstumsrate = ln(PSA2/PSA1) / Zeitdifferenz</li>
-<li>Verdopplungszeit = ln(2) / Wachstumsrate</li>
-</ol>
-</div>
-<div class="section">
-<h2>Technische Hinweise</h2>
-<ul>
-<li>Die Daten werden im JSON-Format gespeichert</li>
-<li>Die JSON-Datei kann auch extern bearbeitet werden</li>
-<li>Alle Berechnungen erfolgen clientseitig</li>
-<li>Keine Daten werden an Server übermittelt</li>
-</ul>
-</div>
+<div class="section">index2.html</div>
+<div>index3.html<br>index4.html</div>
+<div>index5.html<br><br></div>
+<div>benannt.</div>
+<div> </div>
+<div>Die erste Version ist ein sehr einfacher Rechner, die letzte ist ein rechner mit visualisierung und der Möglichkeit, die Daten zu speichern und wieder zu Laden.</div>
+<div> </div>
+<p> </p>
             ]]>
         </content>
     </entry>
