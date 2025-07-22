@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2025-07-22T15:44:35+02:00</updated>
+    <updated>2025-07-22T15:47:25+02:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -134,13 +134,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://behrev.github.io/media/posts/3/qg.PNG" alt="" />
-                    Mit der Datei index.html können mehrere kleine scripte aufgerufen werden. hier gehts zum Repo
+                    Mit der Datei index.html können mehrere kleine Mathescripte aufgerufen werden. hier gehts zum Repo
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://behrev.github.io/media/posts/3/qg.PNG" class="type:primaryImage" alt="" /></p>
-                <p>Mit der Datei index.html können mehrere kleine scripte aufgerufen werden.</p>
+                <p>Mit der Datei index.html können mehrere kleine Mathescripte aufgerufen werden.</p>
 <p> </p>
 <p><a href="https://github.com/behrev/mathematikscripte" target="_blank" rel="noopener noreferrer">hier gehts zum Repo</a></p>
             ]]>
@@ -200,15 +200,18 @@
             <summary>
                 <![CDATA[
                         <img src="https://behrev.github.io/media/posts/1/st-2.PNG" alt="" />
-                    Bei diesem Projekt handest es sich um eine HTML-Seite mit festem Format, bei dem man die Schärfentiefe berechen kann. Hier&hellip;
+                    Hier gehts zum Repo. Bei diesem kleinen Projekt handest es sich um eine HTML-Seite mit festem Format, bei dem man&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://behrev.github.io/media/posts/1/st-2.PNG" class="type:primaryImage" alt="" /></p>
-                <p>Bei diesem Projekt handest es sich um eine HTML-Seite mit festem Format, bei dem man die Schärfentiefe berechen kann.</p>
+                <p><a href="https://github.com/behrev/tiefenschaerfe" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo.</a></p>
 <p> </p>
-<p><a href="https://github.com/behrev/tiefenschaerfe" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo.</a></p>
+<p>Bei diesem kleinen Projekt handest es sich um eine HTML-Seite mit festem Format, bei dem man die Schärfentiefe berechen kann.</p>
+<p> </p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
