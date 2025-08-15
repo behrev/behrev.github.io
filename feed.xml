@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2025-07-22T15:47:25+02:00</updated>
+    <updated>2025-08-15T16:10:03+02:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -113,7 +113,7 @@
 </section>
 <section class="hinweis">
 <h2>Wichtiger Hinweis</h2>
-<p>Dieser Rechner dient nur zu Informationszwecken und ersetzt keine ärztliche Beratung. Die Ergebnisse sollten immer mit einem qualifizierten Arzt besprochen werden, um eine fundierte Entscheidung über die Behandlung zu treffen.</p>
+<p class="msg msg--highlight ">Dieser Rechner dient nur zu Informationszwecken und ersetzt keine ärztliche Beratung. Die Ergebnisse sollten immer mit einem qualifizierten Arzt besprochen werden, um eine fundierte Entscheidung über die Behandlung zu treffen.</p>
 </section>
 </div>
             ]]>
