@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://behrev.github.io/db-umrechner.html",
+            "url": "https://behrev.github.io/db-umrechner.html",
+            "title": "dB Umrechner",
+            "author": {
+                "name": "behrev"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-09T11:15:44+01:00",
+            "date_modified": "2025-12-09T11:15:44+01:00"
+        },
+        {
             "id": "https://behrev.github.io/psa-verdopplungszeitrechner.html",
             "url": "https://behrev.github.io/psa-verdopplungszeitrechner.html",
             "title": "PSA Verdopplungszeitrechner",
