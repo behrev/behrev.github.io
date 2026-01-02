@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2025-12-09T11:15:44+01:00</updated>
+    <updated>2026-01-02T15:12:48+01:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -18,8 +18,84 @@
         <id>https://behrev.github.io/db-umrechner.html</id>
 
         <updated>2025-12-09T11:15:44+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    Grundlagen: Watt und Dezibel In der Nachrichtentechnik und Audio-Elektronik wird das Verhältnis zwischen zwei Leistungswerten (Eingang vs. Ausgang) oft nicht&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 class="card-header">Grundlagen: Watt und Dezibel</h3>
+<p>In der Nachrichtentechnik und Audio-Elektronik wird das Verhältnis zwischen zwei Leistungswerten (Eingang vs. Ausgang) oft nicht linear (als Faktor), sondern logarithmisch in <strong>Dezibel (dB)</strong> angegeben.</p>
+<p>Das hat zwei große Vorteile:</p>
+<ul>
+<li>Sehr große und sehr kleine Zahlen lassen sich handlicher darstellen.</li>
+<li>Verstärkungen von hintereinander geschalteten Stufen können einfach addiert statt multipliziert werden.</li>
+</ul>
+<div class="formula-box">L = 10 · log₁₀(P<sub>out</sub> / P<sub>in</sub>)</div>
+<p>Dabei ist <em>P<sub>in</sub></em> die Eingangsleistung und <em>P<sub>out</sub></em> die Ausgangsleistung.</p>
+<h3>Typische Werte (Faustformeln):</h3>
+<table>
+<tbody>
+<tr>
+<th>dB Wert</th>
+<th>Veränderung der Leistung</th>
+</tr>
+<tr>
+<td>+3 dB</td>
+<td>Verdopplung (x 2)</td>
+</tr>
+<tr>
+<td>+10 dB</td>
+<td>Verzehnfachung (x 10)</td>
+</tr>
+<tr>
+<td>+20 dB</td>
+<td>Verhundertfachung (x 100)</td>
+</tr>
+<tr>
+<td>-3 dB</td>
+<td>Halbierung (x 0.5)</td>
+</tr>
+<tr>
+<td>0 dB</td>
+<td>Keine Änderung (x 1)</td>
+</tr>
+</tbody>
+</table>
+<div class="card-header">Bedienung des Programms</div>
+<p>Dieses Programm dient dazu, schnell die Verstärkung oder Dämpfung zwischen zwei Messpunkten zu berechnen.</p>
+<h3>Schritt-für-Schritt:</h3>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li><strong>Eingangssignal festlegen:</strong><br>Geben Sie im linken Feld den gemessenen Wert ein. Wählen Sie im Dropdown-Menü, ob der Wert in Milliwatt (mW) oder Watt (W) vorliegt.</li>
+</ol>
+</li>
+</ol>
+<p> </p>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li><strong>Ausgangssignal festlegen:</strong><br>Geben Sie im rechten Feld den zweiten Wert ein. Auch hier können Sie die Einheit unabhängig vom ersten Feld wählen (das Programm rechnet dies intern um).</li>
+</ol>
+</li>
+</ol>
+<p> </p>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li><strong>Notizen (Optional):</strong><br>Sie können Stichworte (z.B. "Vorverstärker" oder "Antenne") in die Textfelder eintragen, um Ihre Berechnung zu dokumentieren (z.B. für Screenshots).</li>
+</ol>
+</li>
+</ol>
+<p> </p>
+<ol>
+<li><strong>Berechnen:</strong><br>Klicken Sie auf den Button "Berechnen". Das Ergebnis erscheint unten in der Leiste.</li>
+</ol>
+<p>Hinweis: Positive dB-Werte bedeuten eine Verstärkung, negative Werte eine Dämpfung (Verlust).</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>PSA Verdopplungszeitrechner</title>
