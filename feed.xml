@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2026-01-02T15:46:02+01:00</updated>
+    <updated>2026-05-25T07:00:44+02:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -95,6 +95,7 @@
 <li><strong>Berechnen:</strong><br>Klicken Sie auf den Button "Berechnen". Das Ergebnis erscheint unten in der Leiste.</li>
 </ol>
 <p>Hinweis: Positive dB-Werte bedeuten eine Verstärkung, negative Werte eine Dämpfung (Verlust).</p>
+<p><a href="https://www.youtube.com/watch?v=B5ZnHizbyNc&amp;t=8s" target="_blank" rel="noopener noreferrer">Hier geht es zu einem guten Video</a>, in dem der technische Sachverhalt sehr genau beschrieben wird. </p>
             ]]>
         </content>
     </entry>
