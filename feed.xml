@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2026-06-18T13:59:30+02:00</updated>
+    <updated>2026-06-18T14:02:12+02:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -198,20 +198,17 @@
         </author>
         <link href="https://behrev.github.io/mathematikscripte.html"/>
         <id>https://behrev.github.io/mathematikscripte.html</id>
-        <media:content url="https://behrev.github.io/media/posts/3/qg.PNG" medium="image" />
             <category term="java"/>
             <category term="html"/>
 
         <updated>2025-01-04T12:12:59+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://behrev.github.io/media/posts/3/qg.PNG" alt="" />
                     Mit der Datei index.html können mehrere kleine Mathescripte aufgerufen werden. hier gehts zum Repo
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://behrev.github.io/media/posts/3/qg.PNG" class="type:primaryImage" alt="" /></p>
                 <p>Mit der Datei index.html können mehrere kleine Mathescripte aufgerufen werden.</p>
 <p> </p>
 <p><a href="https://github.com/behrev/mathematikscripte" target="_blank" rel="noopener noreferrer">hier gehts zum Repo</a></p>
@@ -225,20 +222,17 @@
         </author>
         <link href="https://behrev.github.io/behrevpsa-vz.html"/>
         <id>https://behrev.github.io/behrevpsa-vz.html</id>
-        <media:content url="https://behrev.github.io/media/posts/2/psavz5.PNG" medium="image" />
             <category term="java"/>
             <category term="html"/>
 
         <updated>2025-01-02T17:49:16+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://behrev.github.io/media/posts/2/psavz5.PNG" alt="" />
                     Hier gehts zum Repo Hier sind mehrere Versionen zur Berechnung und Visualisierung von PSA-Werten und deren Verdopplungszeiten hinterlegt. Die Versionen&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://behrev.github.io/media/posts/2/psavz5.PNG" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://github.com/behrev/PSA-VZ" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo</a></p>
 <h1>Dokumentation</h1>
 <div class="section">
@@ -264,20 +258,17 @@
         </author>
         <link href="https://behrev.github.io/github_behrev.html"/>
         <id>https://behrev.github.io/github_behrev.html</id>
-        <media:content url="https://behrev.github.io/media/posts/1/st-2.PNG" medium="image" />
             <category term="java"/>
             <category term="html"/>
 
         <updated>2025-01-02T10:10:07+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://behrev.github.io/media/posts/1/st-2.PNG" alt="" />
                     Hier gehts zum Repo. Bei diesem kleinen Projekt handest es sich um eine HTML-Seite mit festem Format, bei dem man&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://behrev.github.io/media/posts/1/st-2.PNG" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://github.com/behrev/tiefenschaerfe" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo.</a></p>
 <p> </p>
 <p>Bei diesem kleinen Projekt handest es sich um eine HTML-Seite mit festem Format, bei dem man die Schärfentiefe berechen kann.</p>
