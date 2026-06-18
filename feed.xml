@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2026-06-18T13:53:47+02:00</updated>
+    <updated>2026-06-18T13:59:30+02:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -20,13 +20,13 @@
         <updated>2025-12-09T11:15:44+01:00</updated>
             <summary>
                 <![CDATA[
-                    Hier gehts zum Repo Grundlagen: Watt und Dezibel In der Nachrichten- und Audiotechnik wird das Verhältnis zwischen zwei Leistungswerten (Eingangsleistung&hellip;
+                    Dokumentation Hier gehts zum Repo In der Nachrichten- und Audiotechnik wird das Verhältnis zwischen zwei Leistungswerten (Eingangsleistung zu Ausgangsleistung) oft&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3><a href="https://github.com/behrev/dB_Umrechner" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo</a></h3>
-<h3> </h3>
+                <h1 class="align-center">Dokumentation</h1>
+<p class="align-center"><a href="https://github.com/behrev/dB_Umrechner" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo</a></p>
 <h3 class="card-header">Grundlagen: Watt und Dezibel</h3>
 <p>In der Nachrichten- und Audiotechnik wird das Verhältnis zwischen zwei Leistungswerten (Eingangsleistung zu Ausgangsleistung) oft nicht linear (als Faktor), sondern logarithmisch in <strong>Dezibel (dB)</strong> angegeben.</p>
 <p>Das hat zwei folgende Vorteile:</p>
