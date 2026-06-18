@@ -5,6 +5,7 @@
     "home_page_url": "https://behrev.github.io",
     "feed_url": "https://behrev.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://behrev.github.io/media/website/behrev.png",
     "author": {
         "name": "behrev"
     },
