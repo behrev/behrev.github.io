@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2026-10-26T16:47:05+01:00</updated>
+    <updated>2026-10-26T16:49:37+01:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -264,7 +264,7 @@
         <updated>2025-01-02T10:10:07+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Hier gehts zum Repo. Das Skript nutzt folgende Kernberechnungen: Jeder kann den Programmcode nutzen. Es gibt keine Einschränkung.
+                    Hier gehts zum Repo. Ein webbasiertes Tool zur Berechnung der Schärfentiefe und anderer optischer Parameter für die Fotografie. Dieses Tool&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -272,7 +272,7 @@
                 <p><a href="https://github.com/behrev/tiefenschaerfe" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo.</a></p>
 <div class="markdown-heading" dir="auto">
 <h1 class="heading-element" dir="auto" tabindex="-1">Schärfentieferechner</h1>
-<h1 class="heading-element" dir="auto" tabindex="-1"><span style="color: #313339; font-family: sans-serif; font-size: inherit; font-weight: 400;">Ein webbasiertes Tool zur Berechnung der Schärfentiefe und anderer optischer Parameter für die Fotografie. Dieses Tool ermöglicht es Fotografen, die Schärfentiefe, den Nahpunkt, den Fernpunkt, die hyperfokale Distanz und den Bildwinkel basierend auf Kameraeinstellungen zu berechnen.</span></h1>
+<p class="heading-element" dir="auto" tabindex="-1"><span style="color: #313339; font-family: sans-serif; font-size: inherit; font-weight: 400;">Ein webbasiertes Tool zur Berechnung der Schärfentiefe und anderer optischer Parameter für die Fotografie. Dieses Tool ermöglicht es Fotografen, die Schärfentiefe, den Nahpunkt, den Fernpunkt, die hyperfokale Distanz und den Bildwinkel basierend auf Kameraeinstellungen zu berechnen.</span></p>
 </div>
 <div class="markdown-heading" dir="auto">
 <h2 class="heading-element" dir="auto" tabindex="-1">📋 Funktionen</h2>
