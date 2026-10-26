@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2026-10-05T14:04:35+02:00</updated>
+    <updated>2026-10-26T16:47:05+01:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -264,15 +264,59 @@
         <updated>2025-01-02T10:10:07+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Hier gehts zum Repo. Bei diesem kleinen Projekt handest es sich um eine HTML-Seite mit festem Format, bei dem man&hellip;
+                    Hier gehts zum Repo. Das Skript nutzt folgende Kernberechnungen: Jeder kann den Programmcode nutzen. Es gibt keine Einschränkung.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><a href="https://github.com/behrev/tiefenschaerfe" target="_blank" rel="noopener noreferrer">Hier gehts zum Repo.</a></p>
-<p> </p>
-<p>Bei diesem kleinen Projekt handest es sich um eine HTML-Seite mit festem Format, bei dem man die Schärfentiefe berechen kann.</p>
-<p> </p>
+<div class="markdown-heading" dir="auto">
+<h1 class="heading-element" dir="auto" tabindex="-1">Schärfentieferechner</h1>
+<h1 class="heading-element" dir="auto" tabindex="-1"><span style="color: #313339; font-family: sans-serif; font-size: inherit; font-weight: 400;">Ein webbasiertes Tool zur Berechnung der Schärfentiefe und anderer optischer Parameter für die Fotografie. Dieses Tool ermöglicht es Fotografen, die Schärfentiefe, den Nahpunkt, den Fernpunkt, die hyperfokale Distanz und den Bildwinkel basierend auf Kameraeinstellungen zu berechnen.</span></h1>
+</div>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">📋 Funktionen</h2>
+<a id="user-content--funktionen" class="anchor" aria-label="Permalink: 📋 Funktionen" href="https://github.com/behrev/tiefenschaerfe#-funktionen"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<ul dir="auto">
+<li><strong>Berechnung der Schärfentiefe:</strong> Bestimmt den Bereich, in dem Objekte scharf abgebildet werden.</li>
+<li><strong>Nahpunkt &amp; Fernpunkt:</strong> Der vordere und der hintere Punkt der Schärfe für die angegebene Objektentfernung.</li>
+<li><strong>Hyperfokale Distanz:</strong> Berechnet den Fokuspunkt, um Schärfe bis ins Unendliche zu erreichen.</li>
+<li><strong>Bildwinkel:</strong> Berechnung des Sichtfelds basierend auf der Brennweite und der gewählten Sensorgröße.</li>
+<li><strong>Z-Kreis:</strong> Anzeige des berechneten Z-Kreises.</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">🛠 Technische Details</h2>
+<a id="user-content--technische-details" class="anchor" aria-label="Permalink: 🛠 Technische Details" href="https://github.com/behrev/tiefenschaerfe#-technische-details"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<ul dir="auto">
+<li><strong>Sprachen:</strong> HTML5, JavaScript (jQuery 1.8.1)</li>
+<li><strong>Berechnungslogik:</strong> Die Berechnungen erfolgen clientseitig in Echtzeit.</li>
+<li><strong>Sensorgrößen:</strong> Das Tool enthält eine integrierte Liste gängiger Sensorgrößen (z. B. Vollformat, APS-C, verschiedene Digitalkamera-Sensoren).</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">🚀 Nutzung</h2>
+<a id="user-content--nutzung" class="anchor" aria-label="Permalink: 🚀 Nutzung" href="https://github.com/behrev/tiefenschaerfe#-nutzung"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<ol dir="auto">
+<li>Öffne die <code>index.htm</code> Datei in einem beliebigen Webbrowser.</li>
+<li>Gib die <strong>Brennweite</strong> (in mm) deiner Linse ein.</li>
+<li>Wähle die gewünschte <strong>Blende</strong> aus der Liste aus.</li>
+<li>Gib die <strong>Objektweite</strong> (den Abstand zum Fokuspunkt) in Metern ein.</li>
+<li>Wähle den passenden <strong>Sensor</strong> deiner Kamera aus.</li>
+<li>Klicke auf <strong>"ausrechnen"</strong>, um die Ergebnisse sofort anzuzeigen.</li>
+</ol>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">📐 Mathematische Grundlagen</h2>
+<a id="user-content--mathematische-grundlagen" class="anchor" aria-label="Permalink: 📐 Mathematische Grundlagen" href="https://github.com/behrev/tiefenschaerfe#-mathematische-grundlagen"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<p dir="auto">Das Skript nutzt folgende Kernberechnungen:</p>
+<ul dir="auto">
+<li><strong>Hyperfokale Distanz ( H ):</strong>f2B⋅d+f</li>
+<li><strong>Bildwinkel:</strong> Berechnet aus der Bilddiagonale und der Brennweite.</li>
+<li><strong>Schärfentiefe:</strong> Differenz zwischen Fernpunkt und Nahpunkt.</li>
+<li><strong>Link zum</strong> <a href="https://de.wikipedia.org/wiki/Sch%C3%A4rfentiefe" rel="nofollow">Wikipediaartikel</a>.</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">📄 Lizenz</h2>
+<a id="user-content--lizenz" class="anchor" aria-label="Permalink: 📄 Lizenz" href="https://github.com/behrev/tiefenschaerfe#-lizenz"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<p dir="auto"><em>Jeder kann den Programmcode nutzen. Es gibt keine Einschränkung.</em></p>
 <p> </p>
 <p> </p>
             ]]>
