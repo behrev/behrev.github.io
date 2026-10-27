@@ -3,7 +3,7 @@
     <title>Github - behrev</title>
     <link href="https://behrev.github.io/feed.xml" rel="self" />
     <link href="https://behrev.github.io" />
-    <updated>2026-10-26T16:49:37+01:00</updated>
+    <updated>2026-10-27T14:23:27+01:00</updated>
     <author>
         <name>behrev</name>
     </author>
@@ -204,14 +204,59 @@
         <updated>2025-01-04T12:12:59+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Mit der Datei index.html können mehrere kleine Mathescripte aufgerufen werden. hier gehts zum Repo
+                    hier gehts zum Repo Willkommen bei den Mathescripte, einer Sammlung von JavaScript-basierten Werkzeugen zur mathematischen Berechnung, die speziell für die&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Mit der Datei index.html können mehrere kleine Mathescripte aufgerufen werden.</p>
-<p> </p>
-<p><a href="https://github.com/behrev/mathematikscripte" target="_blank" rel="noopener noreferrer">hier gehts zum Repo</a></p>
+                <p><a href="https://github.com/behrev/mathematikscripte" target="_blank" rel="noopener noreferrer">hier gehts zum Repo</a></p>
+<div class="markdown-heading" dir="auto">
+<h1 class="heading-element" dir="auto" tabindex="-1">Mathescripte für Smartphone (ursprünglich für Pocket PC)</h1>
+<a id="user-content-mathescripte-für-smartphone-ursprünglich-für-pocket-pc" class="anchor" aria-label="Permalink: Mathescripte für Smartphone (ursprünglich für Pocket PC)" href="https://github.com/behrev/mathematikscripte#mathescripte-für-smartphone-ursprünglich-für-pocket-pc"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<p dir="auto">Willkommen bei den <strong>Mathescripte</strong>, einer Sammlung von JavaScript-basierten Werkzeugen zur mathematischen Berechnung, die speziell für die Anzeige auf Pocket PCs optimiert wurden. Diese Tools sind ideal für Studierende der Elektrotechnik geeignet, um schnell Gleichungssysteme zu lösen oder Determinanten zu berechnen.</p>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">🚀 Features</h2>
+<a id="user-content--features" class="anchor" aria-label="Permalink: 🚀 Features" href="https://github.com/behrev/mathematikscripte#-features"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<p dir="auto">Die Seite bietet verschiedene mathematische Funktionen direkt im Browser an:</p>
+<ul dir="auto">
+<li><strong>Quadratische Gleichungen:</strong> Löse quadratische Gleichungen mit der abc-Formel, inklusive Berechnung des Scheitelpunktes und Darstellung in der Scheitelpunktform.</li>
+<li><strong>Lineare Gleichungssysteme (n=2):</strong> Berechne Lösungen für Gleichungssysteme mit zwei Variablen.</li>
+<li><strong>Lineare Gleichungssysteme (n=3):</strong> Löse Gleichungssysteme mit drei Variablen und berechne gleichzeitig die Determinante der Matrix.</li>
+<li><strong>Determinanten (n=4):</strong> Berechne die Determinante einer 4x4-Matrix.</li>
+<li><strong>Taschenrechner:</strong> Ein klassischer Rechner für schnelle Grundrechenarten.</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">🛠 Technische Details</h2>
+<a id="user-content--technische-details" class="anchor" aria-label="Permalink: 🛠 Technische Details" href="https://github.com/behrev/mathematikscripte#-technische-details"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<ul dir="auto">
+<li><strong>Technologien:</strong> HTML, JavaScript (für Berechnungen), CSS (einfaches Styling).</li>
+<li><strong>Optimierung:</strong> Die Skripte sind so gestaltet, dass sie auch im <em>Pocket Internet Explorer</em> auf Pocket PCs flüssig laufen.</li>
+<li><strong>Eingabe:</strong> Für Dezimalzahlen verwenden Sie bitte ein Komma (<code>,</code>) als Dezimaltrennzeichen.</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">📖 Anleitung</h2>
+<a id="user-content--anleitung" class="anchor" aria-label="Permalink: 📖 Anleitung" href="https://github.com/behrev/mathematikscripte#-anleitung"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<ol dir="auto">
+<li>Öffne die <code>index.html</code> in deinem Browser.</li>
+<li>Wähle aus der Tabelle das gewünschte mathematische Problem aus.</li>
+<li>Gib die entsprechenden Werte in die Textfelder ein.</li>
+<li>Klicke auf den Button <strong>"ausrechnen"</strong> oder <strong>"Lösen"</strong>, um das Ergebnis anzuzeigen.</li>
+</ol>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">📂 Dateistruktur</h2>
+<a id="user-content--dateistruktur" class="anchor" aria-label="Permalink: 📂 Dateistruktur" href="https://github.com/behrev/mathematikscripte#-dateistruktur"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<ul dir="auto">
+<li><code>index.html</code>: Hauptmenü mit allen verfügbaren Funktionen.</li>
+<li><code>quagl.htm</code>: Löser für quadratische Gleichungen.</li>
+<li><code>gl2.htm</code>: Löser für Gleichungssysteme mit 2 Variablen.</li>
+<li><code>gl3.htm</code>: Löser für Gleichungssysteme mit 3 Variablen.</li>
+<li><code>det4.htm</code>: Berechner für 4x4-Determinanten.</li>
+<li><code>rechner/calculator.html</code>: Klassischer Taschenrechner.</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto" tabindex="-1">⚠️ Hinweis</h2>
+<a id="user-content-️-hinweis" class="anchor" aria-label="Permalink: ⚠️ Hinweis" href="https://github.com/behrev/mathematikscripte#️-hinweis"><svg data-component="Octicon" class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<p dir="auto">Damit die Skripte funktionieren, muss in deinem Browser die Ausführung von JavaScript aktiviert sein.</p>
             ]]>
         </content>
     </entry>
